@@ -1,3 +1,4 @@
+// category list
 import business from "../Assets/Business.jpg";
 import design from "../Assets/design.jpg";
 import development from "../Assets/development.jpg";
