@@ -1,3 +1,4 @@
+// head of the body
 import bodyImage from "../Assets/HEAD-IMAGE.jpg";
 
 const BodyHead = () => {
